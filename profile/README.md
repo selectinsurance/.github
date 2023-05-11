@@ -1,4 +1,4 @@
-## ## Welcome to the SelectInsurance Team 👋
+## Welcome to the SelectInsurance Team 👋
 
 <!--
 
